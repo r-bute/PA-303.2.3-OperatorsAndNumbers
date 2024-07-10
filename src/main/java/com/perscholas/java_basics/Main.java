@@ -8,14 +8,14 @@ public class Main {
 
         PA_OperatorsAndNumbers paOperatorsAndNumbers = new PA_OperatorsAndNumbers();
 
-        /*
-        Qn1
+
+        //Qn1
         paOperatorsAndNumbers.convertNumber(2);
         paOperatorsAndNumbers.convertNumber(9);
         paOperatorsAndNumbers.convertNumber(17);
         paOperatorsAndNumbers.convertNumber(88);
 
-        Qn2
+        //Qn2
 
         paOperatorsAndNumbers.shiftNumberByTwo(150);
         paOperatorsAndNumbers.shiftNumberByTwo(225);
@@ -35,7 +35,7 @@ public class Main {
         paOperatorsAndNumbers.incrementByOne(1);
 
 
-         */
+
         //Qn7
         paOperatorsAndNumbers.PrefixAddition(5,8);
         paOperatorsAndNumbers.postfixAddition(5,8);
