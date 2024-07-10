@@ -14,6 +14,7 @@ public class PA_OperatorsAndNumbers {
         System.out.println("                ");
 
     }
+    //
     //qn2
     public void shiftNumberByTwo (int x) {
 
